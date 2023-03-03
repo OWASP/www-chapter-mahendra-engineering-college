@@ -35,6 +35,24 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 ## Speaker Request
 If you are looking forward to speak in our upcoming events, kindly mail us
+* [Barath Rajkumar](mailto:barath.rajkumar@owasp.org)
+* [Nanmaran Madhesh](mailto:nanmaran.madhesh@owasp.org)
+* [Athesh Pargau](mailto:athesh.pargau@owasp.org)
+
+### Email Format:
+* Speaker name
+* Job Role
+* Company / Organization
+* Country
+* Email ID
+* Contact Number
+* Speaker Profile
+* Presentation Details:
+  *  Name / Title of the Presentation
+  *  Abstract of the presentation
+  *  Presentation time required
+
+
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
