@@ -6,7 +6,7 @@ tags: example-tag
 region: Asia
 meetup-group:
 
----
+<!---
 
 <div style='color:red;'>
 
@@ -25,16 +25,16 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </ul>
 
 </div>
+-->
 
 ## Welcome
-Include some information here about your chapter
+OWASP Mahendra Engineering College was founded in Febraury 2023. We provide security conferences, talks, webinars, workshops and meetups about cybersecurity to everyone. We are here to provide awareness and help everyone to exchange information, knowledge about cybersecurity. Our aim is to improve the quality of cyberspace by promoting safety, security, and accessibility for all users.
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. Everyone is welcome and encouraged to participate in our events and contribute their support.
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+## Speaker Request
+If you are looking forward to speak in our upcoming events, kindly mail us
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
@@ -59,7 +59,7 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
