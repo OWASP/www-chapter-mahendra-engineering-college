@@ -37,7 +37,8 @@ If you are looking forward to speak in our upcoming events, kindly mail us
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-Coming soon!
+{% include chapter_events.html group=page.meetup-group %}
+
 
 
 
