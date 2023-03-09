@@ -3,7 +3,7 @@
 
 layout: col-sidebar
 title: OWASP Mahendra Engineering College
-meetup group: 
+meetup group: owasp-mahendra-engineering-college-student-chapter
 region: Asia
 
 ---
