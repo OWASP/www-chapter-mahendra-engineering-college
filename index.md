@@ -14,6 +14,9 @@ OWASP Mahendra Engineering College was founded in Febraury 2023. We provide secu
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. Everyone is welcome and encouraged to participate in our events and contribute their support.
 
+## For Events and Updates
+Keep regularly checking our [Official OWASP Mahendra Engineering College Student Chapter Meetup Group](/www.meetup.com/owasp-mahendra-engineering-college-student-chapter)
+
 ## Speaker Request
 If you are looking forward to speak in our upcoming events, kindly mail us
 * [Dr. A. Neela Madheswari](mailto:neela.madheswari@owasp.org)
@@ -34,7 +37,8 @@ If you are looking forward to speak in our upcoming events, kindly mail us
   *  Abstract of the presentation
   *  Presentation time required
 
-
+### Events:
+* Inaugural event of OWASP Mahendra Engineering College Student Chapter has been successfully completed during 24.03.2023 by Dr.A.Neela Madheswari at 11.15 a.m. to 12.50 p.m. Guest: Mr.Vignesh, Livewire, Namakkal.
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
