@@ -2,7 +2,7 @@
 
 
 layout: col-sidebar
-title: OWASP Mahendra Engineering College
+title: OWASP Mahendra Engineering College Student Chapter
 meetup group: owasp-mahendra-engineering-college-student-chapter
 region: Asia
 
@@ -39,6 +39,7 @@ If you are looking forward to speak in our upcoming events, kindly mail us
 
 ### Events:
 * Inaugural event of OWASP Mahendra Engineering College Student Chapter has been successfully completed during 24.03.2023 by Dr.A.Neela Madheswari at 11.15 a.m. to 12.50 p.m. Guest: Mr.Vignesh, Livewire, Namakkal.
+* Two days Workshop on title OCCULT IN SHADOW (Unveiling the Mystery of OSINT & Pentesting) is completed during 17.08.2023 and 18.08.2023 in offline mode at the Department of CyberSecurity, Mahendra Engineering College, Namakkal. Our Chapter Leaders Mr.R.Barath, Mr.M.Nanamaran and Mr.R.Athesh Pargau served as Speakers for this event. 
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
