@@ -44,7 +44,7 @@ If you are looking forward to speak in our upcoming events, kindly mail us
   * Guest Lecture on Vulnerability Management, Resource Person: Mr.Pintoo Raj, Cyber Defence Manager, Hosur during 12.10.2023
   * Conducted CTF titled WHO AM I 2.0, Challenge Creators are: OWASP Chapter Leads Nanmaran, Barath and Athesh Pargau, Venue: Thiruvalluvar Arangam, Mahendra Engineering College during 13.10.2023
   * Conducted Webinar on Social Engineering, Resource Person: Mr.Rakesh Elamaran, Security Engineer, Comcast, Chennai during 18.10.2023
-* Workshop on title Visual Vortex - Essential Skill Building for Video Crafting is completed during 22.12.2023 in offline mode organized by the Department of Cyber Security in association with OWASP Mahendra Engineering College Student Chapter at Thiruvalluvar Arangam. Nearly 250 students, I and II Year of Cyber Security and II Year of Artificial Intelligence and Data Science students attended. Speakers are: OWASP Student members SriHarish, JayaVignesh and Venkatesh belongs to the II Year B.E. Cyber Security.
+* Workshop on title Visual Vortex - Essential Skill Building for Video Crafting is completed during 22.12.2023 in offline mode organized by the Department of Cyber Security in association with OWASP Mahendra Engineering College Student Chapter at Thiruvalluvar Arangam, Mahendra Engineering College. Nearly 250 students, I and II Year of Cyber Security and II Year of Artificial Intelligence and Data Science students attended. Speakers are: OWASP Student members SriHarish, JayaVignesh and Venkatesh belongs to the II Year B.E. Cyber Security.
   
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
