@@ -4,6 +4,7 @@
 layout: col-sidebar
 title: OWASP Mahendra Engineering College Student Chapter
 meetup group: owasp-mahendra-engineering-college-student-chapter
+country: India
 region: Asia
 
 ---
@@ -12,7 +13,7 @@ region: Asia
 OWASP Mahendra Engineering College was founded in Febraury 2023. We provide security conferences, talks, webinars, workshops and meetups about cybersecurity to everyone. We are here to provide awareness and help everyone to exchange information, knowledge about cybersecurity. Our aim is to improve the quality of cyberspace by promoting safety, security, and accessibility for all users.
 
 ## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. Everyone is welcome and encouraged to participate in our events and contribute their support.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. Everyone is welcome and encouraged to participate in our events and contribute their support.
 
 ## For Events and Updates
 Keep regularly checking our Official Meetup Group
