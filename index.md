@@ -21,11 +21,9 @@ Keep regularly checking our Official Meetup Group
 ## Speaker Request
 If you are looking forward to speak in our upcoming events, kindly mail us
 * [Dr. A. Neela Madheswari](mailto:neela.madheswari@owasp.org)
-// * [Barath Rajkumar](mailto:barath.rajkumar@owasp.org)
-// * [Nanmaran Madhesh](mailto:nanmaran.madhesh@owasp.org)
 * [Athesh Pargau R](mailto:athesh.pargau@owasp.org)
 * [Deepak R](mailto:deepa.ravi@owasp.org)
-## * [Venkatesh S](mailto:)
+
 
 ### Email Format:
 * Speaker name
