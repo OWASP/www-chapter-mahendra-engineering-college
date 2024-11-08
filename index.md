@@ -23,6 +23,7 @@ If you are looking forward to speak in our upcoming events, kindly mail us
 * [Dr. A. Neela Madheswari](mailto:neela.madheswari@owasp.org)
 * [Athesh Pargau R](mailto:athesh.pargau@owasp.org)
 * [Deepak R](mailto:deepa.ravi@owasp.org)
+* [S.Venkatesh](mailto:venkatvishnu24@gmail.com)
 
 
 ### Email Format:
